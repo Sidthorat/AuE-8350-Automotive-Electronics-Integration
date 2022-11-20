@@ -1,5 +1,5 @@
 # AuE-8350-Automotive-Electronics-Integration
-This repository is contains submission files of this course
+This repository contains submission files of this course
 
 Installation:
 
